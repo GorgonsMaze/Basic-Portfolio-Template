@@ -1,9 +1,23 @@
+/* Provides bottom spacing under the div elements
+   where class .section-space is added */
 .section-space {
-	margin-bottom: 4rem;
+	margin-bottom: 64px;
 }
+/* Provides bottom spacing under the div elements
+   where class .bottom-space is added */
 .bottom-space {
-	margin-bottom: 2rem;
+	margin-bottom: 32px;
 }
+/* Provides spacing on all 4-sides of icon buttons
+   where class .icon-space is added */
 .icon-space {
-	margin: 2rem;
+	margin: 32px;
+}
+/* Primary color for all H1 titles on website */
+.primary-title-color {
+	color: #2567a9;
+}
+/* Background Color for Welcome banner at top of page  */
+.banner-bg-color {
+	background-color: #004a94;
 }
